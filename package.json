@@ -3,6 +3,7 @@
   "displayName": "",
   "description": "",
   "version": "0.0.1",
+  "icon": "/src/assets/image.png",
   "engines": {
     "vscode": "^1.120.0"
   },
