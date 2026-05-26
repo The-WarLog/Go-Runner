@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/The-WarLog/Go-Runner.git"
   },
-  "icon": "src/assets/image.png",
+  "icon": "assets/image.png",
   "engines": {
     "vscode": "^1.120.0"
   },
