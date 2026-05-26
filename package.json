@@ -1,13 +1,14 @@
 {
-  "name": "go-runner",
-  "displayName": "",
-  "description": "",
+  "name": "GoFLUX",
+  "displayName": "GoFLUX",
+  "description": "Run Go Files Instantly",
   "version": "0.0.1",
+  "publisher": "Divyesh-dev",
   "repository": {
     "type": "git",
     "url": "https://github.com/The-WarLog/Go-Runner.git"
   },
-  "icon": "assets/image.png",
+  "icon": "assets/GoLaunch2.png",
   "engines": {
     "vscode": "^1.120.0"
   },

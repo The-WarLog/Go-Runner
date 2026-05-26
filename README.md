@@ -1,4 +1,4 @@
-# Go Runner — Run Go files from VS Code
+# GOFLUX — Run Go files from VS Code
 
 A small VS Code extension that runs the current Go file in a single reusable terminal and optionally re-runs on save.
 
