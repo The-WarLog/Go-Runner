@@ -22,24 +22,6 @@ A small VS Code extension that runs the current Go file in a single reusable ter
 Notes:
 - The extension requires the file to be saved before running. If the terminal used by the extension is closed manually, a new one will be created automatically on next run.
 
-**Development**
-- **Install deps**: 
-```bash
-npm install
-```
-- **Run in Extension Host**: 
-```bash
-npm run watch
-# then press F5 in VS Code to open the Extension Development Host
-```
-- **Run tests**:
-```bash
-npm test
-```
-- **Package**:
-```bash
-vsce package
-```
 
 **Important files**
 - **Extension entry**: [src/extension.ts](src/extension.ts)
