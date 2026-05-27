@@ -19,6 +19,9 @@ A small VS Code extension that runs the current Go file in a single reusable ter
 2. Run the command `Go Runner: Run` from the Command Palette or trigger your Run button.
 3. To enable automatic runs on save, run `Go Runner: Toggle AutoRun`.
 
+UI buttons:
+- The extension also provides dedicated UI buttons for `Run` and `AutoRun` in the editor UI — use these buttons as a quick alternative to the Command Palette. The buttons perform the same actions as the commands.
+
 Notes:
 - The extension requires the file to be saved before running. If the terminal used by the extension is closed manually, a new one will be created automatically on next run.
 
